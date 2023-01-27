@@ -1,6 +1,6 @@
 # moviewebsite_theshining
-학교 과제로 만든 더샤이닝 영화 사이트입니다.
-Html,Css,JavaScript
+학교 과제로 만든 더샤이닝 영화 사이트입니다.<br>
+Html,Css,JavaScript<br>
 fullpage.js
 
 ![git_shining_1](https://user-images.githubusercontent.com/114851426/214989991-a41d5a3a-23e1-40d2-8728-e1561d2a2f6c.jpg)
