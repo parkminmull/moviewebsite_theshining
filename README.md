@@ -1,4 +1,5 @@
 # moviewebsite_theshining
+学校の課題で作った映画「シャイニング」のWebサイト
 학교 과제로 만든 더샤이닝 영화 사이트입니다.<br>
 Html,Css,JavaScript<br>
 Fullpage.js<br>
