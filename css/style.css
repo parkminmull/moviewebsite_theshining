@@ -105,7 +105,7 @@ a {
 }
 
 #section0 .layer {
-    font-size: 70px;
+    font-size: 80px;
     /* font-weight: lighter; */
     position: absolute;
     z-index: 6;
@@ -259,6 +259,7 @@ a {
 }
 
 A:hover {
+    font-size: 18px;
     font-weight: bold;
 }
 
